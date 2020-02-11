@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Dev\GitHubThings\lapdata\WPF\LAP\LAP\obj\Debug\
+c:\tgwdata\github\lapdata\wpf\lap\LAP\obj\Debug\
 LAP
 none
 false
 DEBUG;TRACE
-D:\Dev\GitHubThings\lapdata\WPF\LAP\LAP\App.xaml
+c:\tgwdata\github\lapdata\wpf\lap\LAP\App.xaml
 32120856770
 1-1838461882
-10-664959491
-231327148122
+14640388104
+23-478575324
 View\MainWindow.xaml;View\SearchControl.xaml;View\TableControl.xaml;
 
-False
+True
 
